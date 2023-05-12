@@ -1,0 +1,106 @@
+body {
+    padding: 0;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+#id144bca4bacb57.wlr {
+    max-width: 64px;
+    font-family: 'Montserrat', sans-serif;
+    max-height: 322px;
+    background-color: #481677;
+}
+#id144bca4bacb57 .wlSource svg {
+    display:none
+}
+.date {
+    position: absolute;
+    color: #ffffff;
+        font-size: 11px;
+    left: 4.5px;
+    top: 3px;
+}
+.day {
+    position: absolute;
+    color: #ffffff;
+    font-size: 11px;
+    left: 2px;
+    top: 17px;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcDateFl {
+    font-size: 11px;
+    position: relative;
+    top: -18px;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="140px"] .wlr__temp{
+    font-size: 22px!important;
+    position: relative;
+    top: -18px;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__currentWeather {
+    padding: 10px 0px!important;
+    padding-right: 4px!important;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__currentWeather {
+    padding-top: 30px!important;
+}
+/* .wlr__currentWeather  */
+#id144bca4bacb57 .wlr__fcItem:nth-child(2) {
+position: relative;
+top: -108px;
+left: 0px;
+z-index: 100;
+
+}
+#id144bca4bacb57 .wlr__fcItem:nth-child(3) {
+position: relative;
+top: -88px;
+left: 0px;
+background-color: #481677!important;
+}
+#id144bca4bacb57 .wlr__fcItem:nth-child(1) {
+    z-index: -5;
+}
+.dcd-1 {
+    display: block!important;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcTempNight {
+    display: none!important;
+}
+.wlr__fcTempDay {
+    font-size: 22px;
+}
+.day_2{
+position: absolute;
+    top: 119px;
+    left:6px;
+    color: #ffffff;
+    font-size: 18px;
+}
+.day_3{
+    position: absolute;
+    top: 230px;
+    left: 6px;
+    z-index: 100;
+    color: #ffffff;
+    font-size: 18px;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcIcon svg  {
+    width: 50.12px!important;
+    height: 27.24px!important;
+    margin-right: 4px;
+}
+#id144bca4bacb57.wlr {
+    overflow: hidden;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcTempDay {
+    position: relative;
+    top: 6px;
+    right: 4px;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcIcon {
+    margin-bottom: 0px!important;
+}
+#id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__fcItem {
+    padding-top: 25px;
+    
+}
