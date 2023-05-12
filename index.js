@@ -27,7 +27,7 @@ const options = {
   weekday: "long"
 };
 const formattedDate2 = currentDate.toLocaleString("uk-UA", options);
-// document.querySelector(".day").innerHTML = formattedDate2
+ document.querySelector(".day").innerHTML = formattedDate2
 console.log(formattedDate2);
 const day = document.querySelector(".day")
 console.log(day.innerHTML)
