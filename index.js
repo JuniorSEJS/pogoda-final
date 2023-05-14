@@ -27,13 +27,34 @@ const options = {
   weekday: "long"
 };
 const formattedDate2 = currentDate.toLocaleString("uk-UA", options);
- document.querySelector(".day").innerHTML = formattedDate2
+document.querySelector(".day").innerHTML = formattedDate2
 console.log(formattedDate2);
 const day = document.querySelector(".day")
 console.log(day.innerHTML)
-if(day.innerHTML.length === 8) {
-    day.style.left = "5px"
+if (day.innerHTML.length === 9) {
+  day.style.left = "2px "
 }
+if(day.innerHTML === "п'ятниця") {
+  day.style.left = "7px"
+}
+if (day.innerHTML === "вівторок") {
+  day.style.left = "8px";
+}if (day.innerHTML === "понеділок") {
+  day.style.left = "2px";}
+  if (day.innerHTML === "середа") {
+    day.style.left = "11px";
+  }
+  if (day.innerHTML === "четвер") {
+    day.style.left = "12px";
+  }
+   if (day.innerHTML === "субота") {
+     day.style.left = "13px";
+   }
+   if (day.innerHTML === "неділя") {
+     day.style.left = "13px";
+   }
+
+console.log(day.innerHTML.length)
 
 
 const dates = [];
