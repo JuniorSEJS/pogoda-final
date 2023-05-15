@@ -32,7 +32,7 @@ body {
     top: -18px;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="140px"] .wlr__temp{
-    font-size: 22px!important;
+    font-size: 21px!important;
     position: relative;
     top: -18px;
 }
@@ -95,7 +95,8 @@ position: absolute;
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcTempDay {
     position: relative;
     top: 6px;
-    right: 4px;
+    right: 6px;
+    font-size: 21px;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcIcon {
     margin-bottom: 0px!important;
@@ -103,4 +104,7 @@ position: absolute;
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__fcItem {
     padding-top: 25px;
     
+}
+#id144bca4bacb57.wlr .wlr__icon svg {
+    display: inline-block!important;
 }
