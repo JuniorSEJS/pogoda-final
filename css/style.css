@@ -41,7 +41,7 @@ body {
     padding-right: 4px!important;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__currentWeather {
-    padding-top: 30px!important;
+    margin-top: 23px!important;
 }
 /* .wlr__currentWeather  */
 #id144bca4bacb57 .wlr__fcItem:nth-child(2) {
@@ -102,7 +102,6 @@ position: absolute;
     margin-bottom: 0px!important;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="350px"] .wlr__fcItem {
-    padding-top: 25px;
     
 }
 #id144bca4bacb57.wlr .wlr__icon svg {
