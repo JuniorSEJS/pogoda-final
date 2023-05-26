@@ -31,11 +31,8 @@ document.querySelector(".day").innerHTML = formattedDate2
 console.log(formattedDate2);
 const day = document.querySelector(".day")
 console.log(day.innerHTML)
-if (day.innerHTML.length === 9) {
-  day.style.left = "2px "
-}
-if(day.innerHTML === "п'ятниця") {
-  day.style.left = "7px"
+if (day.innerHTML === "пʼятниця") {
+  day.style.left = "6px";
 }
 if (day.innerHTML === "вівторок") {
   day.style.left = "8px";
@@ -73,3 +70,4 @@ console.log(dates); // ["11 тра", "12 тра", "13 тра"]
 const day_2 = document.querySelector(".day_2").innerHTML = dates[1]
 const day_3 = document.querySelector(".day_3").innerHTML = dates[2];
 
+/* апи */
