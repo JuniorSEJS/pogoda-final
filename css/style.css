@@ -71,14 +71,14 @@ background-color: #481677!important;
 }
 .day_2{
 position: absolute;
-    top: 124px;
+    top: 125px;
     left:6px;
     color: #ffffff;
     font-size: 18px;
 }
 .day_3{
     position: absolute;
-    top: 230px;
+    top: 233px;
     left: 6px;
     z-index: 100;
     color: #ffffff;
