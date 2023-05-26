@@ -29,7 +29,7 @@ body {
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcDateFl {
     font-size: 11px;
     position: relative;
-    top: -18px;
+    top: -21px;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="140px"] .wlr__temp{
     font-size: 21px!important;
@@ -94,7 +94,7 @@ position: absolute;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcTempDay {
     position: relative;
-    top: 6px;
+    top: 8px;
     right: 6px;
     font-size: 21px;
 }
