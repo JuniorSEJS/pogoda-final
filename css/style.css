@@ -72,17 +72,17 @@ background-color: #481677!important;
 .day_2{
 position: absolute;
     top: 125px;
-    left:4px;
+    left: 3px;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 17px;
 }
 .day_3{
     position: absolute;
     top: 233px;
-    left: 4px;
+    left: 3px;
     z-index: 100;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 17px;
 }
 #id144bca4bacb57.wlr .wlr__wrapper[max-width~="185px"] .wlr__fcIcon  svg  {
     width: 38.12px!important;
